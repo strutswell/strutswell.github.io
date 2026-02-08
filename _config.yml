@@ -27,9 +27,8 @@ url: "https://www.isotropic.ca" # the base hostname & protocol for your site, e.
 github_username:  strutswell
 
 # Build settings
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-architect
 plugins:
-- jekyll-remote-theme
 - jekyll-feed
 
 # Exclude from processing.
