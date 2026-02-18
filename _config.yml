@@ -27,7 +27,7 @@ url: "https://www.isotropic.ca" # the base hostname & protocol for your site, e.
 github_username:  strutswell
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
